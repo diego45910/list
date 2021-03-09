@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Lista TV", GOL TV
+https://playback2.akamaized.net/streams/28253671_9183137_lsi0mubd8odm3pseq7u_1/master.m3u8?dw=80&hdnts=exp=1615333542~acl=/streams/28253671_9183137_lsi0mubd8odm3pseq7u_1/master.m3u8*~hmac=832735d8eddf754673b4804281f0c6de9be30f0706dbd64cbbdcb2f7117de7ca
